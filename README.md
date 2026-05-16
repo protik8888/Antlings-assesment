@@ -164,7 +164,7 @@ limitations : The limitations are significant in this dataset. As we can see, th
 challenges faced: Working with the huge dataset is indeed a challenge. It takes time and resources to train these images. Moreover, the dataset is very imbalanced. It  is a challenge to create a meaningful model out of it. Balancing the dataset is a hassle. To overcome the class imbalance we could have used some pipelines like merging the people and pedestrians as human in the training, it may have improved a bit but not much. The best way would be to increase the people and pedestrian classes and correct the annotations from scratch.
 
 
-Object tracking: while tracking the objects specially people, pedestrians and cars we have to think from the perspective of a drone. Comparing ByteTrack and Bot Sort we can see that Bot Sort is more reliable because it can track colors and other features but not very useful in low end hardware as it needs more computing power.
+Object tracking: while tracking the objects specially people, pedestrians and cars we have to think from the perspective of a drone. Comparing ByteTrack and Bot Sort we can see that Bot Sort is more reliable because it can track colors and other features but not very useful in low end hardware as it needs more computing power.    https://drive.google.com/drive/folders/15gFJva50_npRsZpTnflLWswWyNQXLYlb?usp=sharing
 
 
 
