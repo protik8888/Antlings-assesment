@@ -28,16 +28,15 @@ challenges noticed in the dataset :
 
 The annotations are quite problematic too; some annotations overlap on each other completely. Sometimes pedestrians and people are annotated with mistakes. Here are some images:
 
-These people are surely pedestrians because they are riding on a 
-vehicle,why are they annotated as people?
 
 
 
-Clearly a guy standing,why is he annotated as a pedestrian?
 
 
 
-People inside the box of bicycle; very problematic
+
+
+
 
 
 
